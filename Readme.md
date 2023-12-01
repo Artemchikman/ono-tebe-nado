@@ -1,1 +1,2 @@
-git@github.com:Artemchikman/ono-tebe-nado.git
+# ono-tebe-nado
+Проект "Оно тебе надо"
