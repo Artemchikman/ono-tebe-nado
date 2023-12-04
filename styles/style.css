@@ -211,7 +211,7 @@
   display: block;
   font-size: 20px;
   padding-top: 30px;
-  text-underline-offset: 2px;
+  text-underline-offset: 2px;/*подчеркивание текста*/
   padding-left: 40px;
 }
 
