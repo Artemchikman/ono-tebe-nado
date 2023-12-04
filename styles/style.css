@@ -281,11 +281,11 @@ footer {
   margin-bottom: 15px;
 }
 
-.footer__address {
- width: 240px;
- line-height: 24.3px;
- font-style: inherit;
- font-size: 18px; 
+.footer__adress{
+  width: 240px;
+  line-height: 24.3px;
+  font-style: inherit;
+  font-size: 18px;
 }
 
 .footer__links-list {
