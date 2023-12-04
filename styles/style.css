@@ -275,28 +275,27 @@ footer {
   padding:0 50px 90px;
   }
 
-.footer__menu{
+.footer__menu {
   display: flex;
   justify-content: center;
-   margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 .footer__address {
-  width: 240px;
-  line-height: 24.3px;
-  font-style: inherit; 
+width: 240px;
+line-height: 24.3px;
+font-style: inherit; 
 font-size: 18px; 
-
 }
 
 .footer__links-list {
   display: flex;
   list-style-type: none;
   flex-direction: column;
-    align-items: center;
+  align-items: center;
  }
 
-.footer__link{
+.footer__link {
   font-size: 18px;
 }
 
