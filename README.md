@@ -1,3 +1,3 @@
-Работа выполнена с учетом замечаний.
+https://github.com/Artemchikman/ono-tebe-nado
 
-https://github.com/Artemchikman/ono-tebe-nado.git
+Работа выполнена с учетом замечаний.
