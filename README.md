@@ -1,1 +1,1 @@
-https://github.com/Artemchikman/ono-tebe-nado.git
+[ссылка на мой репозиторий](https://github.com/Artemchikman/ono-tebe-nado)
