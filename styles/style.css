@@ -226,7 +226,7 @@
   display: grid;
   grid-template-columns: 430px 1fr;
   gap: 25px;
-  padding: 34px 50px 178px;
+  padding: 34px 50px 170px;
 }
 
 .about__column {
