@@ -2,7 +2,7 @@
   max-width: 1440px;
   display: flex;
   justify-content: space-between;
-  padding: 92px 49px 92px 51px;
+   padding: 92px 49px 92px 51px;
 }
 
 .header__logo {
@@ -47,7 +47,7 @@
   line-height: 24.3px;
   justify-self:end;
   display: block;
-  text-underline-offset: 3px;
+  text-underline-offset: 2px;
 }
 
 .cover {
@@ -226,7 +226,7 @@
   display: grid;
   grid-template-columns: 430px 1fr;
   gap: 25px;
-  padding: 34px 50px 170px;
+  padding: 31px 50px 180px; /*исправил*/
 }
 
 .about__column {
